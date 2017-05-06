@@ -1,3 +1,76 @@
 <resources>
     <string name="app_name">NewsToday</string>
+    <string-array name="planets_array">
+        <item>ABC News(AU)</item>
+        <!--<item>AI Jazeera English</item>-->
+        <item>Ars Technica</item>
+        <item>Associated Press</item>
+        <item>BBC News</item>
+        <item>BBC Sport</item>
+        <item>Bild</item>
+        <item>Bloomberg</item>
+        <item>Breitbart News</item>
+        <item>Business Insider</item>
+        <item>Business Insider (UK)</item>
+        <item>Buzzfeed</item>
+        <item>CNBC</item>
+        <item>CNN</item>
+        <item>Daily Mail</item>
+        <item>Der Tagesspiegel</item>
+        <item>Die Zeit</item>
+        <item>Engadget</item>
+        <item>Entertainment Weekly</item>
+        <item>ESPN</item>
+        <item>ESPN Cric Info</item>
+        <item>Financial Times</item>
+        <item>Focus</item>
+        <item>Football Italia</item>
+        <item>Fortune</item>
+        <!--<item>FourFourTwo</item>-->
+        <item>Fox Sports</item>
+        <item>Google News</item>
+        <item>Gruenderszene</item>
+        <item>Hacker News</item>
+        <item>Handelsblatt</item>
+        <item>IGN</item>
+        <item>Independent</item>
+        <item>Mashable</item>
+        <item>Metro</item>
+        <item>Mirror</item>
+        <item>MTV News</item>
+        <item>MTV News (UK)</item>
+        <item>National Geographic</item>
+        <item>New Scientist</item>
+        <item>Newsweek</item>
+        <item>New York Magazine</item>
+        <item>NFL News</item>
+        <item>Polygon</item>
+        <item>Recode</item>
+        <!--<item>Reddit /r/all</item>-->
+        <item>Reuters</item>
+        <item>Spiegel Online</item>
+        <item>T3n</item>
+        <item>TalkSport</item>
+        <item>TechCrunch</item>
+        <item>TechRadar</item>
+        <item>The Economist</item>
+        <item>The Guardian (AU)</item>
+        <item>The Guardian (UK)</item>
+        <item>The Hindu</item>
+        <item>The Huffington Post</item>
+        <item>The Lad Bible</item>
+        <item>The New York Times</item>
+        <item>The Next Web</item>
+        <item>The Sport Bible</item>
+        <item>The Telegraph</item>
+        <item>The Times of India</item>
+        <item>The Verge</item>
+        <item>The Wall Street Journal</item>
+        <item>The Washington Post</item>
+        <item>Time</item>
+        <item>USA Today</item>
+        <!--<item>Wired.de</item>-->
+        <item>Wirtschafts Woche</item>
+
+    </string-array>
 </resources>
